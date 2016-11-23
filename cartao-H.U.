@@ -1,0 +1,12 @@
+CARTÃO
+
+Aluno: 	Como aluno eu quero poder relatar problemas que as máquinas apresentam
+		e softwares faltosos para que seja possível que os computadores atendam as necessidades
+		do aluno em sala de aula.
+
+Monitores: Como monitor eu quero que o sistema permita que eu também relate problemas em várias máquinas de 			uma só vez. além disso, quero poder ver todos os problemas apresentados por todas as máquinas e 			os softwares disponíveis em cada uma delas.
+
+Adm. de Labs: Como Adm. eu quero poder relatar e visualizar problemas. Além disso quero poder gerenciar os cadastros de usuários. Criar, editar e deletar.
+
+Coordenador: Como coordenador eu quero que o sistema gere relatórios mensais para 
+			 que eu possa saber quantas e quais peças dão defeito ao longo do mês.
