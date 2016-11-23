@@ -1,0 +1,19 @@
+Premissas
+ 	- as máquinas precisam estar em rede
+
+ Grupos de Entrega																	Linha do tempo
+tela de seleção de máquina e descrição do problema------------------|------------------> 30 dias
+				 													|
+tela de visualização do problema------------------------------------|------------------> 20 dias
+										 							|
+tela de cadastro de novos usuários----------------------------------|------------------> 35 dias
+										 							
+
+Restrições
+	- O sistema não pode ser pesado demais prarodar
+	  nas maquinas disponíveis
+	- O sistema precisa rodar nas plataformas Linux, Windows e Mac OS
+
+Riscos
+	- O usuário final não gostar da usabilidade do software. P:20%  I:5
+	- Não conseguir adesão dos usuários
